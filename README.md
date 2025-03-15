@@ -96,4 +96,4 @@ Please refer to [ARCHITECTURE.md](ARCHITECTURE.md) for information about the com
 
 ## Contact
 
-For any inquiries about this project, please contact [your-email@example.com](mailto:your-email@example.com).
+For any inquiries about this project, please contact (mailto:- raisaksham426@gmail.com).
