@@ -18,16 +18,15 @@ export default function Header() {
           <nav>
             <ul className="flex space-x-6">
               <li>
-                <Link href="/">
-                  <a 
-                    className={cn(
-                      "font-medium", 
-                      activeTab === "campaigns" ? "text-[#2196F3]" : "text-[#6C757D] hover:text-[#2196F3]"
-                    )}
-                    onClick={() => setActiveTab("campaigns")}
-                  >
-                    Campaigns
-                  </a>
+                <Link 
+                  href="/"
+                  className={cn(
+                    "font-medium", 
+                    activeTab === "campaigns" ? "text-[#2196F3]" : "text-[#6C757D] hover:text-[#2196F3]"
+                  )}
+                  onClick={() => setActiveTab("campaigns")}
+                >
+                  Campaigns
                 </Link>
               </li>
               <li>

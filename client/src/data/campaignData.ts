@@ -22,7 +22,7 @@ export const campaignData: Campaign[] = [
     id: 1,
     brand: {
       name: "Adidas",
-      logo: "https://logo.clearbit.com/adidas.com",
+      logo: "https://upload.wikimedia.org/wikipedia/commons/2/20/Adidas_Logo.svg",
       category: "Sports & Fitness"
     },
     title: "New Ultraboost Collection Review",
@@ -38,7 +38,7 @@ export const campaignData: Campaign[] = [
     id: 2,
     brand: {
       name: "Sephora",
-      logo: "https://logo.clearbit.com/sephora.com",
+      logo: "https://upload.wikimedia.org/wikipedia/commons/e/e8/Sephora_Logo.svg",
       category: "Beauty"
     },
     title: "Summer Skincare Essentials",
@@ -54,7 +54,7 @@ export const campaignData: Campaign[] = [
     id: 3,
     brand: {
       name: "Bose",
-      logo: "https://logo.clearbit.com/bose.com",
+      logo: "https://upload.wikimedia.org/wikipedia/commons/8/87/Bose_logo.svg",
       category: "Audio & Technology"
     },
     title: "QuietComfort Earbuds Review",
@@ -70,7 +70,7 @@ export const campaignData: Campaign[] = [
     id: 4,
     brand: {
       name: "Zara",
-      logo: "https://logo.clearbit.com/zara.com",
+      logo: "https://upload.wikimedia.org/wikipedia/commons/f/fd/Zara_Logo.svg",
       category: "Fashion"
     },
     title: "Fall Collection Showcase",
@@ -86,7 +86,7 @@ export const campaignData: Campaign[] = [
     id: 5,
     brand: {
       name: "Nykaa",
-      logo: "https://logo.clearbit.com/nykaa.com",
+      logo: "https://companieslogo.com/img/orig/NYKAA.NS-c31ac9e9.png",
       category: "Beauty"
     },
     title: "Festive Makeup Collection",
@@ -102,7 +102,7 @@ export const campaignData: Campaign[] = [
     id: 6,
     brand: {
       name: "DoorDash",
-      logo: "https://logo.clearbit.com/doordash.com",
+      logo: "https://upload.wikimedia.org/wikipedia/commons/d/df/DoorDash_Logo.svg",
       category: "Food & Delivery"
     },
     title: "Food Delivery Experience",
@@ -118,7 +118,7 @@ export const campaignData: Campaign[] = [
     id: 7,
     brand: {
       name: "Nike",
-      logo: "https://logo.clearbit.com/nike.com",
+      logo: "https://upload.wikimedia.org/wikipedia/commons/f/fa/Nike_logo.svg",
       category: "Sports & Fitness"
     },
     title: "Workout Essentials",
@@ -134,7 +134,7 @@ export const campaignData: Campaign[] = [
     id: 8,
     brand: {
       name: "Apple",
-      logo: "https://logo.clearbit.com/apple.com",
+      logo: "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg",
       category: "Technology"
     },
     title: "New iPhone Review",
