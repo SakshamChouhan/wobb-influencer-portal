@@ -54,7 +54,7 @@ export const campaignData: Campaign[] = [
     id: 3,
     brand: {
       name: "Bose",
-      logo: "https://1000logos.net/wp-content/uploads/2020/04/Bose-Logo-1024x576.png",
+      logo: "https://1000logos.net/wp-content/uploads/2020/04/Bose-Logo-768x432.png",
       category: "Audio & Technology"
     },
     title: "QuietComfort Earbuds Review",
@@ -70,7 +70,7 @@ export const campaignData: Campaign[] = [
     id: 4,
     brand: {
       name: "Zara",
-      logo: "https://1000logos.net/wp-content/uploads/2017/05/ZARA-logo.jpg",
+      logo: "https://1000logos.net/wp-content/uploads/2017/05/Zara-logo-768x432.png",
       category: "Fashion"
     },
     title: "Fall Collection Showcase",
@@ -86,7 +86,7 @@ export const campaignData: Campaign[] = [
     id: 5,
     brand: {
       name: "Nykaa",
-      logo: "https://play-lh.googleusercontent.com/eDell8rOnH6h1RXYm-jRvlXPCLu4M9ucn8JCNs0uwQA4ixHMyKB4RLtLMGUTvPfQI_Q",
+      logo: "https://1000logos.net/wp-content/uploads/2023/01/Nykaa-logo-768x432.png",
       category: "Beauty"
     },
     title: "Festive Makeup Collection",
