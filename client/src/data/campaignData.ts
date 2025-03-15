@@ -22,12 +22,12 @@ export const campaignData: Campaign[] = [
     id: 1,
     brand: {
       name: "Adidas",
-      logo: "https://upload.wikimedia.org/wikipedia/commons/2/20/Adidas_Logo.svg",
+      logo: "https://1000logos.net/wp-content/uploads/2019/06/Adidas-Logo-1991.jpg",
       category: "Sports & Fitness"
     },
     title: "New Ultraboost Collection Review",
     description: "Create authentic content showcasing the new Ultraboost running shoes in real-life settings.",
-    image: "https://images.unsplash.com/photo-1586702358673-25ab2abc31f8?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    image: "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/32e704d0-5ac7-4d0c-9065-8f54b1a7def6/revolution-6-road-running-shoes-wide-vtRNJn.png",
     payoutType: "Fixed Pay",
     payoutAmount: 15000,
     hiredCount: 8,
@@ -38,12 +38,12 @@ export const campaignData: Campaign[] = [
     id: 2,
     brand: {
       name: "Sephora",
-      logo: "https://upload.wikimedia.org/wikipedia/commons/e/e8/Sephora_Logo.svg",
+      logo: "https://1000logos.net/wp-content/uploads/2020/04/Sephora-Logo-1024x640.png",
       category: "Beauty"
     },
     title: "Summer Skincare Essentials",
     description: "Share your summer skincare routine featuring our newest products. Perfect for beauty influencers.",
-    image: "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    image: "https://belleblushh.com/wp-content/uploads/2020/12/Summer-Fridays-Sephora-Holiday-Skincare-Set.jpg",
     payoutType: "Barter",
     payoutAmount: 8000,
     hiredCount: 12,
@@ -54,12 +54,12 @@ export const campaignData: Campaign[] = [
     id: 3,
     brand: {
       name: "Bose",
-      logo: "https://upload.wikimedia.org/wikipedia/commons/8/87/Bose_logo.svg",
+      logo: "https://1000logos.net/wp-content/uploads/2020/04/Bose-Logo-1024x576.png",
       category: "Audio & Technology"
     },
     title: "QuietComfort Earbuds Review",
     description: "Create an unboxing and review video for our latest noise-cancelling earbuds. Ideal for tech reviewers.",
-    image: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    image: "https://assets.bose.com/content/dam/Bose_DAM/Web/consumer_electronics/global/products/headphones/qc_earbuds/silo_images/QCEB_PDP_Ecom-Gallery-B03.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
     payoutType: "Refund",
     payoutAmount: 22999,
     hiredCount: 5,
@@ -70,12 +70,12 @@ export const campaignData: Campaign[] = [
     id: 4,
     brand: {
       name: "Zara",
-      logo: "https://upload.wikimedia.org/wikipedia/commons/f/fd/Zara_Logo.svg",
+      logo: "https://1000logos.net/wp-content/uploads/2017/05/ZARA-logo.jpg",
       category: "Fashion"
     },
     title: "Fall Collection Showcase",
     description: "Style and showcase our new fall collection in your unique way. We're looking for creative fashion content.",
-    image: "https://images.unsplash.com/photo-1528740561666-dc2479dc08ab?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    image: "https://www.zara.com/assets/application/resources/public/img/categories-bg/W08_WOMAN_COLLECTION_SS24_COLLECTION.jpg",
     payoutType: "Fixed Pay",
     payoutAmount: 12000,
     hiredCount: 18,
@@ -86,12 +86,12 @@ export const campaignData: Campaign[] = [
     id: 5,
     brand: {
       name: "Nykaa",
-      logo: "https://companieslogo.com/img/orig/NYKAA.NS-c31ac9e9.png",
+      logo: "https://play-lh.googleusercontent.com/eDell8rOnH6h1RXYm-jRvlXPCLu4M9ucn8JCNs0uwQA4ixHMyKB4RLtLMGUTvPfQI_Q",
       category: "Beauty"
     },
     title: "Festive Makeup Collection",
     description: "Create stunning festive makeup looks using our exclusive collection. Perfect for beauty enthusiasts.",
-    image: "https://images.unsplash.com/photo-1530989109-7aa8e4318cc7?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    image: "https://images-static.nykaa.com/uploads/39438c66-ab8e-4fff-9c8f-f741dc18c96f.jpg",
     payoutType: "Barter",
     payoutAmount: 7500,
     hiredCount: 9,
@@ -102,12 +102,12 @@ export const campaignData: Campaign[] = [
     id: 6,
     brand: {
       name: "DoorDash",
-      logo: "https://upload.wikimedia.org/wikipedia/commons/d/df/DoorDash_Logo.svg",
+      logo: "https://1000logos.net/wp-content/uploads/2021/04/DoorDash-logo-768x432.png",
       category: "Food & Delivery"
     },
     title: "Food Delivery Experience",
     description: "Share your food delivery experience with DoorDash. Looking for authentic content showing our service in action.",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    image: "https://assets.bonappetit.com/photos/625ca80a3f11701bc3dcd7b9/16:9/w_2560%2Cc_limit/0419-Door-Dash-Story-Lede.jpg",
     payoutType: "Fixed Pay",
     payoutAmount: 5000,
     hiredCount: 7,
@@ -118,12 +118,12 @@ export const campaignData: Campaign[] = [
     id: 7,
     brand: {
       name: "Nike",
-      logo: "https://upload.wikimedia.org/wikipedia/commons/f/fa/Nike_logo.svg",
+      logo: "https://1000logos.net/wp-content/uploads/2021/11/Nike-Logo-768x432.png",
       category: "Sports & Fitness"
     },
     title: "Workout Essentials",
     description: "Create content showcasing your workout routine using Nike products. We're looking for fitness enthusiasts.",
-    image: "https://images.unsplash.com/photo-1584735175315-9d5df23be639?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    image: "https://static.nike.com/a/images/f_auto/dpr_1.3,cs_srgb/h_300,c_limit/0e1af797-67fa-465e-9aad-f1ad7f5e84a4/nike-just-do-it.jpg",
     payoutType: "Fixed Pay",
     payoutAmount: 18000,
     hiredCount: 10,
@@ -134,12 +134,12 @@ export const campaignData: Campaign[] = [
     id: 8,
     brand: {
       name: "Apple",
-      logo: "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg",
+      logo: "https://1000logos.net/wp-content/uploads/2016/10/Apple-Logo-768x432.png",
       category: "Technology"
     },
     title: "New iPhone Review",
     description: "Create an in-depth review of the latest iPhone. Looking for tech enthusiasts with a strong following.",
-    image: "https://images.unsplash.com/photo-1592286927505-1def25115df9?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    image: "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-15-pro-finish-select-202309-6-7inch_GEO_EMEA?wid=2560&hei=1440&fmt=p-jpg&qlt=80&.v=1693009284541",
     payoutType: "Refund",
     payoutAmount: 79999,
     hiredCount: 3,
