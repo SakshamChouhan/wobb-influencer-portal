@@ -13,8 +13,8 @@ This project is a web-based reimagination of the Wobb App's influencer portal ho
 
 ## Screenshots
 
-![Desktop View](screenshot-desktop.png)
-![Mobile View](screenshot-mobile.png)
+![Desktop View](https://imgur.com/a/desktop-view-LFvjkAa)
+![Mobile View](https://imgur.com/a/qbrWist)
 
 ## Features
 

@@ -22,7 +22,7 @@ export const campaignData: Campaign[] = [
     id: 1,
     brand: {
       name: "Adidas",
-      logo: "https://1000logos.net/wp-content/uploads/2019/06/Adidas-Logo-1991.jpg",
+      logo: "https://images.seeklogo.com/logo-png/16/2/adidas-logo-png_seeklogo-168370.png",
       category: "Sports & Fitness"
     },
     title: "New Ultraboost Collection Review",
@@ -38,7 +38,7 @@ export const campaignData: Campaign[] = [
     id: 2,
     brand: {
       name: "Sephora",
-      logo: "https://1000logos.net/wp-content/uploads/2020/04/Sephora-Logo-1024x640.png",
+      logo: "https://images.seeklogo.com/logo-png/19/1/sephora-logo-png_seeklogo-194408.png",
       category: "Beauty"
     },
     title: "Summer Skincare Essentials",
@@ -54,7 +54,7 @@ export const campaignData: Campaign[] = [
     id: 3,
     brand: {
       name: "Bose",
-      logo: "https://1000logos.net/wp-content/uploads/2020/04/Bose-Logo-768x432.png",
+      logo: "https://images.seeklogo.com/logo-png/49/1/bose-logo-png_seeklogo-498544.png",
       category: "Audio & Technology"
     },
     title: "QuietComfort Earbuds Review",
@@ -70,7 +70,7 @@ export const campaignData: Campaign[] = [
     id: 4,
     brand: {
       name: "Zara",
-      logo: "https://1000logos.net/wp-content/uploads/2017/05/Zara-logo-768x432.png",
+      logo: "https://images.seeklogo.com/logo-png/15/1/zara-logo-png_seeklogo-155775.png",
       category: "Fashion"
     },
     title: "Fall Collection Showcase",
@@ -86,7 +86,7 @@ export const campaignData: Campaign[] = [
     id: 5,
     brand: {
       name: "Nykaa",
-      logo: "https://1000logos.net/wp-content/uploads/2023/01/Nykaa-logo-768x432.png",
+      logo: "https://images.seeklogo.com/logo-png/35/1/nykaa-logo-png_seeklogo-358073.png",
       category: "Beauty"
     },
     title: "Festive Makeup Collection",
@@ -102,7 +102,7 @@ export const campaignData: Campaign[] = [
     id: 6,
     brand: {
       name: "DoorDash",
-      logo: "https://1000logos.net/wp-content/uploads/2021/04/DoorDash-logo-768x432.png",
+      logo: "https://images.seeklogo.com/logo-png/47/1/doordash-logo-png_seeklogo-479739.png",
       category: "Food & Delivery"
     },
     title: "Food Delivery Experience",
@@ -118,7 +118,7 @@ export const campaignData: Campaign[] = [
     id: 7,
     brand: {
       name: "Nike",
-      logo: "https://1000logos.net/wp-content/uploads/2021/11/Nike-Logo-768x432.png",
+      logo: "https://images.seeklogo.com/logo-png/9/1/nike-logo-png_seeklogo-99478.png",
       category: "Sports & Fitness"
     },
     title: "Workout Essentials",
