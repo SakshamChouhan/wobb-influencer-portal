@@ -30,29 +30,27 @@ export default function Header() {
                 </Link>
               </li>
               <li>
-                <Link href="/collaborations">
-                  <a 
-                    className={cn(
-                      "font-medium", 
-                      activeTab === "collaborations" ? "text-[#2196F3]" : "text-[#6C757D] hover:text-[#2196F3]"
-                    )}
-                    onClick={() => setActiveTab("collaborations")}
-                  >
-                    My Collaborations
-                  </a>
+                <Link 
+                  href="/collaborations"
+                  className={cn(
+                    "font-medium", 
+                    activeTab === "collaborations" ? "text-[#2196F3]" : "text-[#6C757D] hover:text-[#2196F3]"
+                  )}
+                  onClick={() => setActiveTab("collaborations")}
+                >
+                  My Collaborations
                 </Link>
               </li>
               <li>
-                <Link href="/payments">
-                  <a 
-                    className={cn(
-                      "font-medium", 
-                      activeTab === "payments" ? "text-[#2196F3]" : "text-[#6C757D] hover:text-[#2196F3]"
-                    )}
-                    onClick={() => setActiveTab("payments")}
-                  >
-                    Payments
-                  </a>
+                <Link 
+                  href="/payments"
+                  className={cn(
+                    "font-medium", 
+                    activeTab === "payments" ? "text-[#2196F3]" : "text-[#6C757D] hover:text-[#2196F3]"
+                  )}
+                  onClick={() => setActiveTab("payments")}
+                >
+                  Payments
                 </Link>
               </li>
             </ul>
@@ -76,41 +74,38 @@ export default function Header() {
       {/* Mobile navigation */}
       <div className="md:hidden bg-white border-t border-gray-200">
         <nav className="flex justify-around py-2">
-          <Link href="/">
-            <a 
-              className={cn(
-                "flex flex-col items-center", 
-                activeTab === "campaigns" ? "text-[#2196F3]" : "text-[#6C757D]"
-              )}
-              onClick={() => setActiveTab("campaigns")}
-            >
-              <i className="ri-layout-grid-line text-xl"></i>
-              <span className="text-xs mt-1">Campaigns</span>
-            </a>
+          <Link 
+            href="/"
+            className={cn(
+              "flex flex-col items-center", 
+              activeTab === "campaigns" ? "text-[#2196F3]" : "text-[#6C757D]"
+            )}
+            onClick={() => setActiveTab("campaigns")}
+          >
+            <i className="ri-layout-grid-line text-xl"></i>
+            <span className="text-xs mt-1">Campaigns</span>
           </Link>
-          <Link href="/collaborations">
-            <a 
-              className={cn(
-                "flex flex-col items-center", 
-                activeTab === "collaborations" ? "text-[#2196F3]" : "text-[#6C757D]"
-              )}
-              onClick={() => setActiveTab("collaborations")}
-            >
-              <i className="ri-team-line text-xl"></i>
-              <span className="text-xs mt-1">Collaborations</span>
-            </a>
+          <Link 
+            href="/collaborations"
+            className={cn(
+              "flex flex-col items-center", 
+              activeTab === "collaborations" ? "text-[#2196F3]" : "text-[#6C757D]"
+            )}
+            onClick={() => setActiveTab("collaborations")}
+          >
+            <i className="ri-team-line text-xl"></i>
+            <span className="text-xs mt-1">Collaborations</span>
           </Link>
-          <Link href="/payments">
-            <a 
-              className={cn(
-                "flex flex-col items-center", 
-                activeTab === "payments" ? "text-[#2196F3]" : "text-[#6C757D]"
-              )}
-              onClick={() => setActiveTab("payments")}
-            >
-              <i className="ri-money-dollar-circle-line text-xl"></i>
-              <span className="text-xs mt-1">Payments</span>
-            </a>
+          <Link 
+            href="/payments"
+            className={cn(
+              "flex flex-col items-center", 
+              activeTab === "payments" ? "text-[#2196F3]" : "text-[#6C757D]"
+            )}
+            onClick={() => setActiveTab("payments")}
+          >
+            <i className="ri-money-dollar-circle-line text-xl"></i>
+            <span className="text-xs mt-1">Payments</span>
           </Link>
         </nav>
       </div>
