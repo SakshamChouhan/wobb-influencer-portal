@@ -76,7 +76,6 @@ yarn dev
     App.tsx          # Main app component
     main.tsx         # Entry point
 /server              # Backend API endpoints
-/shared              # Shared types and schemas
 ```
 
 ## Design Choices
